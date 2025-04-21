@@ -1,5 +1,5 @@
 # nuts-setup-5px
-NUTS setup bash script to run on proxmox to configure a USB connected EATON 5PX.
+NUTS setup bash script to run on Proxmox to configure a USB connected EATON 5PX.
 
 # NUT UPS Monitoring Setup Script for Proxmox with Eaton 5PX
 
